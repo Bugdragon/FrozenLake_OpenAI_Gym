@@ -1,5 +1,5 @@
 # FrozenLake_OpenAI_Gym
-使用OpenAI Gym的实现Frozen Lake环境的修改版本
+使用OpenAI Gym实现Frozen Lake环境的修改版本
 
 ### 代码实现
 + predict_value(s): returns a vector with the value of each action in state s.
